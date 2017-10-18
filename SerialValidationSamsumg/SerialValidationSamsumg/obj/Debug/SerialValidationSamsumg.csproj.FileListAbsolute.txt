@@ -28,3 +28,9 @@ C:\Users\Etiquetas\Desktop\SamsungSeries2\SerialValidationSamsumg\SerialValidati
 C:\Users\rodolfoj\Documents\Visual Studio 2015\GitHUB\TEST\SerialValidationSamsumg\SerialValidationSamsumg\bin\Debug\SerialValidationSamsumg.exe.config
 C:\Users\rodolfoj\Documents\Visual Studio 2015\GitHUB\TEST\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.exe
 C:\Users\rodolfoj\Documents\Visual Studio 2015\GitHUB\TEST\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.pdb
+C:\Users\rodolfoj\Documents\Visual Studio 2015\GitHUB\TEST\SerialValidationSamsumg\SerialValidationSamsumg\bin\Debug\SerialValidationSamsumg.exe
+C:\Users\rodolfoj\Documents\Visual Studio 2015\GitHUB\TEST\SerialValidationSamsumg\SerialValidationSamsumg\bin\Debug\SerialValidationSamsumg.pdb
+C:\Users\rodolfoj\Documents\Visual Studio 2015\GitHUB\TEST\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.csprojResolveAssemblyReference.cache
+C:\Users\rodolfoj\Documents\Visual Studio 2015\GitHUB\TEST\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.Form1.resources
+C:\Users\rodolfoj\Documents\Visual Studio 2015\GitHUB\TEST\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.Properties.Resources.resources
+C:\Users\rodolfoj\Documents\Visual Studio 2015\GitHUB\TEST\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.csproj.GenerateResource.Cache

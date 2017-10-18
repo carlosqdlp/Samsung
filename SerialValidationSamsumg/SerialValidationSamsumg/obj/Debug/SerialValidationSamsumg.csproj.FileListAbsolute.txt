@@ -1,0 +1,9 @@
+c:\users\rodolfoj\documents\visual studio 2015\Projects\SerialValidationSamsumg\SerialValidationSamsumg\bin\Debug\SerialValidationSamsumg.exe.config
+c:\users\rodolfoj\documents\visual studio 2015\Projects\SerialValidationSamsumg\SerialValidationSamsumg\bin\Debug\SerialValidationSamsumg.exe
+c:\users\rodolfoj\documents\visual studio 2015\Projects\SerialValidationSamsumg\SerialValidationSamsumg\bin\Debug\SerialValidationSamsumg.pdb
+c:\users\rodolfoj\documents\visual studio 2015\Projects\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.csprojResolveAssemblyReference.cache
+c:\users\rodolfoj\documents\visual studio 2015\Projects\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.Form1.resources
+c:\users\rodolfoj\documents\visual studio 2015\Projects\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.Properties.Resources.resources
+c:\users\rodolfoj\documents\visual studio 2015\Projects\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.csproj.GenerateResource.Cache
+c:\users\rodolfoj\documents\visual studio 2015\Projects\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.exe
+c:\users\rodolfoj\documents\visual studio 2015\Projects\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.pdb

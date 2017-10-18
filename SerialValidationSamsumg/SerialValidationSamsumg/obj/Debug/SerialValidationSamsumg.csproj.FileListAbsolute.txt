@@ -16,3 +16,12 @@ C:\Users\Etiquetas\Desktop\SamsungSeries\SerialValidationSamsumg\SerialValidatio
 C:\Users\Etiquetas\Desktop\SamsungSeries\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.Form1.resources
 C:\Users\Etiquetas\Desktop\SamsungSeries\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.Properties.Resources.resources
 C:\Users\Etiquetas\Desktop\SamsungSeries\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.csproj.GenerateResource.Cache
+C:\Users\Etiquetas\Desktop\SamsungSeries2\SerialValidationSamsumg\SerialValidationSamsumg\bin\Debug\SerialValidationSamsumg.exe.config
+C:\Users\Etiquetas\Desktop\SamsungSeries2\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.exe
+C:\Users\Etiquetas\Desktop\SamsungSeries2\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.pdb
+C:\Users\Etiquetas\Desktop\SamsungSeries2\SerialValidationSamsumg\SerialValidationSamsumg\bin\Debug\SerialValidationSamsumg.exe
+C:\Users\Etiquetas\Desktop\SamsungSeries2\SerialValidationSamsumg\SerialValidationSamsumg\bin\Debug\SerialValidationSamsumg.pdb
+C:\Users\Etiquetas\Desktop\SamsungSeries2\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.csprojResolveAssemblyReference.cache
+C:\Users\Etiquetas\Desktop\SamsungSeries2\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.Form1.resources
+C:\Users\Etiquetas\Desktop\SamsungSeries2\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.Properties.Resources.resources
+C:\Users\Etiquetas\Desktop\SamsungSeries2\SerialValidationSamsumg\SerialValidationSamsumg\obj\Debug\SerialValidationSamsumg.csproj.GenerateResource.Cache

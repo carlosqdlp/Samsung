@@ -23,7 +23,7 @@ namespace SerialValidationSamsumg
                 int filas = tabla.Rows.Count;
                       // Se necesita verificar la coneccion a BDF  
                       
-                //otro       
+                //elimina    
                 if (filas > 0)
                 {                  
                     limpia();

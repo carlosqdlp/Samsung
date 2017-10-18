@@ -21,7 +21,7 @@ namespace SerialValidationSamsumg
                  var tabla = conexion.Consultasql(query);
                 string valor = tabla.Rows[0]["SS_SN"].ToString();
                 int filas = tabla.Rows.Count;
-                               
+                      // Se necesita verificar la coneccion a BDF         
                 if (filas > 0)
                 {                  
                     limpia();
